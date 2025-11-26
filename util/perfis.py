@@ -32,8 +32,8 @@ class Perfil(EnumEntidade):
 
     # PERFIS DO SEU SISTEMA #####################################
     ADMIN = "Administrador"
-    CLIENTE = "Cliente"
-    VENDEDOR = "Vendedor"
+    AUTOR = "Autor"
+    LEITOR = "Leitor"
     # FIM DOS PERFIS ############################################
 
     # Alias para compatibilidade com código legado
